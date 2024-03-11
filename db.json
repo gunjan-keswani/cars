@@ -2,6 +2,11 @@
     {
         "brand": "ford",
         "model": [
+             {
+                "name": "gt",
+                "url": "https://www.ford.com/performance/gt/",
+                "image": "https://cdn.motor1.com/images/mgl/o8V7q/s1/2019-ford-gt-carbon-series.jpg"
+            },
             {
                 "name": "Mustang",
                 "url": "https://www.ford.com/cars/mustang/",
@@ -11,12 +16,7 @@
                 "name": "f950",
                 "url": "https://www.ford.com/commercial-trucks/f650-f750/",
                 "image": "https://i.pinimg.com/originals/a8/4c/84/a84c84175bf1c7ed023720e4c390617e.jpg"
-            },
-            {
-                "name": "gt",
-                "url": "https://www.ford.com/performance/gt/",
-                "image": "https://cdn.motor1.com/images/mgl/o8V7q/s1/2019-ford-gt-carbon-series.jpg"
-            }
+            }           
         ]
     },
     {
@@ -37,16 +37,16 @@
     {
         "brand": "mercedes",
         "model": [
+             {
+                "name": "slc",
+                "url": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/slc/slc-roadster/explore.html",
+                "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/slc/byo/options/2019-SLC-ROADSTER-013.jpg"
+            },
             {
                 "name": "cla",
                 "url": "https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/cla/",
                 "image": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/cla/cla-coupe/explore/concept-intro/_jcr_content/contentgallerycontainer/par/contentgallery_c8fa/par/contentgallerytile_e/image.MQ6.8.20180122133037.jpeg"
-            },
-            {
-                "name": "slc",
-                "url": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/slc/slc-roadster/explore.html",
-                "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/slc/byo/options/2019-SLC-ROADSTER-013.jpg"
-            }
+            }           
         ]
     },
     {
